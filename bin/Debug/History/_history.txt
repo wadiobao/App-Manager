@@ -1,0 +1,6 @@
+26/11/2024 22:50:02||C:\Program Files\Azure Data Studio\
+26/11/2024 22:57:30||C:\Program Files\Azure Data Studio\
+26/11/2024 23:07:26| (Mở thư mục)|C:\Program Files\CPUID\CPU-Z\
+26/11/2024 23:18:25| (Mở thư mục)|C:\Program Files\CPUID\CPU-Z\
+27/11/2024 12:31:22| (Tìm trong Known Folders)|C:\Program Files\Softdeluxe\Free Download Manager\
+27/11/2024 13:11:18| (Mở từ AppsFolder)|C:\Program Files\Softdeluxe\Free Download Manager\

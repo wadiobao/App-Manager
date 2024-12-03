@@ -1,0 +1,3 @@
+26/11/2024 23:10:48|Discord (Mở thư mục)|C:\Users\Wdibao\AppData\Local\Discord
+27/11/2024 12:41:21|Discord (Mở từ AppsFolder)|C:\Users\Wdibao\AppData\Local\Discord
+28/11/2024 22:14:51(Chạy ứng dụng)|Discord|C:\Users\Wdibao\AppData\Local\Discord

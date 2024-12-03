@@ -1,0 +1,100 @@
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\BTLNET.exe.config
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\BTLNET.exe
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\BTLNET.pdb
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.csproj.AssemblyReference.cache
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.Properties.Resources.resources
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.csproj.GenerateResource.cache
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.csproj.CoreCompileInputs.cache
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.exe
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.pdb
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.csproj.ResolveComReference.cache
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.UDDaDung.resources
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Google.Protobuf.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Buffers.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Memory.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\ZstdSharp.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Google.Protobuf.pdb
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Google.Protobuf.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Buffers.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Memory.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.csproj.CopyComplete
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\BTLNET.exe.config
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\BTLNET.exe
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\BTLNET.pdb
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\Google.Protobuf.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Buffers.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Memory.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\ZstdSharp.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\Google.Protobuf.pdb
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\Google.Protobuf.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Buffers.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Memory.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.csproj.AssemblyReference.cache
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.csproj.ResolveComReference.cache
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.Form2.resources
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.Properties.Resources.resources
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.UDDaDung.resources
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.csproj.GenerateResource.cache
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.csproj.CoreCompileInputs.cache
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.csproj.CopyComplete
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.exe
+C:\Users\Wdibao\source\repos\BTLNET - Copy\obj\Debug\BTLNET.pdb
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.QuanLiUD.resources
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Wdibao\source\repos\BTLNET\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.TrangChu.resources
+C:\Users\Wdibao\source\repos\BTLNET\obj\Debug\BTLNET.CaiDat.resources

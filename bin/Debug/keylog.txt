@@ -1,0 +1,2 @@
+[LButton][RButton][Enter]
+SV[LControlKey][Backspace][Packet][Backspace][Packet][Backspace][Packet]Ctrl S V 
